@@ -1,0 +1,482 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-16 16:39+0600\n"
+"PO-Revision-Date: 2018-05-16 17:22+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/post-types.php:22
+msgid "Clear data"
+msgstr "পরিসংখ্যান মুছে ফেলুন"
+
+#: includes/post-types.php:22
+msgid "Are you sure you want to clear all statistics of this banner?"
+msgstr "আপনি নিশ্চিত যে আপনি এই ব্যানারের জন্য সকল পরিসংখ্যান মুছে ফেলতে চান?"
+
+#: includes/post-types.php:40
+msgid "<span class=\"dashicons dashicons-editor-code\"></span> Codes"
+msgstr "<span class=\"dashicons dashicons-editor-code\"></span> কোড"
+
+#: includes/post-types.php:41
+msgid "<span class=\"dashicons dashicons-visibility\"></span> Views"
+msgstr "<span class=\"dashicons dashicons-visibility\"></span> দৃশ্যমান সংখ্যা"
+
+#: includes/post-types.php:42
+msgid "<span class=\"dashicons dashicons-chart-bar\"></span> Clicks"
+msgstr "<span class=\"dashicons dashicons-chart-bar\"></span> ক্লিক সংখ্যা"
+
+#: includes/post-types.php:68 includes/post-types.php:335
+msgid "Get Codes"
+msgstr "কোডগুলি দেখুন"
+
+#: includes/post-types.php:215
+#, php-format
+msgid "All statistics data were cleared for banner \"%1$s\""
+msgstr "\"%1$s\" ব্যানারের জন্য সকল পরিসংখ্যান মুছে ফেলা হয়েছে।"
+
+#: includes/post-types.php:228
+msgctxt "post type general name"
+msgid "Banners"
+msgstr "ব্যানারগুলি"
+
+#: includes/post-types.php:229
+msgctxt "post type singular name"
+msgid "Banner"
+msgstr "ব্যানার"
+
+#: includes/post-types.php:230
+msgctxt "admin menu"
+msgid "Banner Ads"
+msgstr "ব্যানার বিজ্ঞাপনগুলি"
+
+#: includes/post-types.php:231
+msgctxt "add new on admin bar"
+msgid "Banner"
+msgstr "ব্যানার"
+
+#: includes/post-types.php:232
+msgctxt "banner"
+msgid "Add New"
+msgstr "নতুন যুক্ত করুন"
+
+#: includes/post-types.php:233
+msgid "Add New Banner"
+msgstr "নতুন ব্যানার যুক্ত করুন"
+
+#: includes/post-types.php:234
+msgid "New Banner"
+msgstr "নতুন ব্যানার"
+
+#: includes/post-types.php:235
+msgid "Edit Banner"
+msgstr "ব্যানারটি এডিট করুন"
+
+#: includes/post-types.php:236
+msgid "View Banner"
+msgstr "ব্যানারটি দেখুন"
+
+#: includes/post-types.php:237
+msgid "All Banners"
+msgstr "সকল ব্যানার"
+
+#: includes/post-types.php:238
+msgid "Search Banners"
+msgstr "ব্যানার খুঁজুন"
+
+#: includes/post-types.php:239
+msgid "Parent Banners:"
+msgstr "পূর্বের ব্যানারগুলিঃ"
+
+#: includes/post-types.php:240
+msgid "No banners found."
+msgstr "কোনও ব্যানার পাওয়া যায়নি"
+
+#: includes/post-types.php:241
+msgid "No banners found in Trash."
+msgstr "ট্র্যাশে কোনও ব্যানার পাওয়া যায়নি"
+
+#: includes/post-types.php:246
+msgid "Description."
+msgstr "ডেসক্রিপশন"
+
+#: includes/post-types.php:265
+msgid "Banner view/click data"
+msgstr "ব্যানারের পরিসংখ্যানগুলি"
+
+#: includes/post-types.php:284
+msgid "Banner Settings"
+msgstr "ব্যানার সেটিংস"
+
+#: includes/post-types.php:312
+msgid "Size & Link"
+msgstr "সাইজ এবং লিঙ্ক"
+
+#: includes/post-types.php:313
+msgid "Design"
+msgstr "ডিজাইন"
+
+#: includes/post-types.php:314
+msgid "Display Options"
+msgstr "কিভাবে দেখাতে চান"
+
+#: includes/post-types.php:334
+msgid "Preview Banner"
+msgstr "ব্যানারটি দেখুন"
+
+#: includes/post-types.php:363
+msgid "Select or Upload image"
+msgstr "ছবি নির্বাচন বা আপলোড করুন"
+
+#: includes/post-types.php:363
+msgid "Use this image"
+msgstr "এই ছবিটি ব্যবহার করুন"
+
+#: includes/post-types.php:368
+msgid "Remove this image"
+msgstr "এই ছবিটি বাদ দিন"
+
+#: includes/post-types.php:373
+msgid "Upload"
+msgstr "আপলোড"
+
+#: includes/post-types.php:384
+msgid "Small Square"
+msgstr "ছোট বর্গক্ষেত্র"
+
+#: includes/post-types.php:385
+msgid "Medium Square"
+msgstr "মাঝারি বর্গক্ষেত্র"
+
+#: includes/post-types.php:386
+msgid "Square"
+msgstr "বর্গক্ষেত্র"
+
+#: includes/post-types.php:387
+msgid "Medium Rectangle"
+msgstr "মাঝারি আয়তক্ষেত্র"
+
+#: includes/post-types.php:388
+msgid "Half Banner"
+msgstr "অর্ধেক ব্যানার"
+
+#: includes/post-types.php:389
+msgid "Banner"
+msgstr "ব্যানার"
+
+#: includes/post-types.php:390
+msgid "Vertical Banner"
+msgstr "লম্বা ব্যানার"
+
+#: includes/post-types.php:391
+msgid "Vertical Rectangle"
+msgstr "লম্বা আয়তক্ষেত্র"
+
+#: includes/post-types.php:392
+msgid "Leaderboard"
+msgstr "লিডারবোর্ড"
+
+#: includes/post-types.php:393
+msgid "Billboard"
+msgstr "বিলবোর্ড"
+
+#: includes/post-types.php:394
+msgid "Inline Rectangle"
+msgstr "লাইনের ভিতর আয়তক্ষেত্র"
+
+#: includes/post-types.php:395
+msgid "Large Rectangle"
+msgstr "বড় আয়তক্ষেত্র"
+
+#: includes/post-types.php:396
+msgid "Skyscraper"
+msgstr "স্কাইস্ক্র্যাপার"
+
+#: includes/post-types.php:397
+msgid "Wide Skyscraper"
+msgstr "চওড়া স্কাইস্ক্র্যাপার"
+
+#: includes/post-types.php:398
+msgid "Extra Wide Skyscraper"
+msgstr "অতিরিক্ত চওড়া স্কাইস্ক্র্যাপার"
+
+#: includes/post-types.php:399
+msgid "Half-Page Ad"
+msgstr "অর্ধেক পৃষ্ঠা ব্যানার"
+
+#: includes/post-types.php:400
+msgid "Large Leaderboard"
+msgstr "বড় লিডারবোর্ড"
+
+#: includes/post-types.php:404
+msgid "Facebook Cover"
+msgstr "ফেইসবুক কভার"
+
+#: includes/post-types.php:405
+msgid "Facebook Post"
+msgstr "ফেইসবুক পোস্ট"
+
+#: includes/post-types.php:406
+msgid "Facebook Ad"
+msgstr "ফেইসবুকের বিজ্ঞাপন"
+
+#: includes/post-types.php:407
+msgid "Twitter Post"
+msgstr "টইটার পোস্ট"
+
+#: includes/post-types.php:408
+msgid "Twitter Cover"
+msgstr "টুইটার কভার"
+
+#: includes/post-types.php:409
+msgid "Instagram Post"
+msgstr "ইন্সটাগ্রাম পোস্ট"
+
+#: includes/post-types.php:410
+msgid "Instagram Ad"
+msgstr "ইন্সটাগ্রাম বিজ্ঞাপন"
+
+#: includes/post-types.php:411
+msgid "Pinterest Post"
+msgstr "পিন্টারেস্ট পোস্ট"
+
+#: includes/post-types.php:412
+msgid "LinkedIn Cover"
+msgstr "লিঙ্কডইন কভার"
+
+#: includes/post-types.php:413
+msgid "Google+ Cover"
+msgstr "গুগল+ কভাব"
+
+#: includes/post-types.php:414
+msgid "Snapchat Post"
+msgstr "স্নাপচ্যাট পোস্ট"
+
+#: includes/post-types.php:423
+msgid "Link"
+msgstr "লিঙ্ক"
+
+#: includes/post-types.php:427
+msgid "Link target"
+msgstr "লিঙ্ক টার্গেট"
+
+#: includes/post-types.php:432
+msgid "(_blank) Open the link in a new window"
+msgstr "(_blank) নতুন ট্যাবে চালু করে"
+
+#: includes/post-types.php:433
+msgid "(_self) Open the link in the same frame as it was clicked"
+msgstr "(_self) নিজস্ব ফ্রেমে চালু করে"
+
+#: includes/post-types.php:434
+msgid "(_parent) Open the link in the parent frameset"
+msgstr "(_parent) বাইরের ফ্রেমে চালু করে"
+
+#: includes/post-types.php:435
+msgid "(_top) Open the link in the full body of the window"
+msgstr "(_top) সরবচ্চো ফ্রেমে চালু করে"
+
+#: includes/post-types.php:447
+msgid "Regular Sizes"
+msgstr "সাধারন সাইজগুলি"
+
+#: includes/post-types.php:477
+msgid "Social Media Sizes"
+msgstr "সামাজিক যোগাযোগ মাধ্যমের সাইজগুলি"
+
+#: includes/post-types.php:518
+msgid "Banner type"
+msgstr "ব্যানারের ধরন"
+
+#: includes/post-types.php:520
+msgid "Image"
+msgstr "ছবি"
+
+#: includes/post-types.php:521
+msgid "Wysiwyg"
+msgstr "Wysiwyg"
+
+#: includes/post-types.php:522 includes/post-types.php:543
+msgid "HTML"
+msgstr "এইচটিএমএল"
+
+#: includes/post-types.php:526
+msgid "Select Image"
+msgstr "ছবি নির্বাচন করুন"
+
+#: includes/post-types.php:538
+msgid "Custom Codes"
+msgstr "নিজস্ব কোড"
+
+#: includes/post-types.php:539
+msgid ""
+"<strong>NOTE:</strong> invalid codes may break your banner. Use carefully."
+msgstr ""
+"<strong>নোট:</strong> ভুল কোড ব্যানারটিকে নস্ট করে দিতে পারে। সাবধানতার সাথে "
+"ব্যবহার করুন"
+
+#: includes/post-types.php:544
+msgid "Paste HTML code within <body></body> tag"
+msgstr "<body></body> ট্যাগের ভিতর এইচটিএমএল কোড পেস্ট করুন"
+
+#: includes/post-types.php:545
+msgid "Only applicable if using HTML banner type"
+msgstr "সুধুমাত্র এইচটিএমএল ব্যানারের জন্য প্রযোজ্য"
+
+#: includes/post-types.php:553
+msgid "CSS"
+msgstr "সিএসএস"
+
+#: includes/post-types.php:554
+msgid "Paste CSS code to add inside the banner"
+msgstr "ব্যানারটিএর ভিতর কোড যুক্ত করতে পেস্ট করুন"
+
+#: includes/post-types.php:555
+msgid "No html or javascript allowed"
+msgstr "এইচটিএমএল বা জাভাস্ক্রিপ্ট এর অনুমতি নেই"
+
+#: includes/post-types.php:563
+msgid "JavaScript"
+msgstr "জাভাস্ক্রিপ্ট"
+
+#: includes/post-types.php:564
+msgid "Paste JavaScript code to add inside the banner"
+msgstr "জাভাস্ক্রিপ্ট কোড ব্যানারে যুক্ত করতে পেস্ট করুন"
+
+#: includes/post-types.php:565
+msgid "No html or CSS allowed"
+msgstr "সিএসএস বা এইচটিএমএল এর অনুমতি নেই"
+
+#: includes/post-types.php:569
+msgid "Load jQuery before this code"
+msgstr "এই কোডের আগে জেকোয়েরি লোড করুন"
+
+#: includes/post-types.php:582
+msgid "Automatic display"
+msgstr "স্বয়ংক্রিয়ভাবে দেখান"
+
+#: includes/post-types.php:585
+msgid "Show this banner inside posts"
+msgstr "এই ব্যানারটি পোস্টের ভিতরে দেখান"
+
+#: includes/post-types.php:592
+msgid "Display Position"
+msgstr "কোথায় দেখাতে চান"
+
+#: includes/post-types.php:596
+msgid "Top of post content"
+msgstr "পোস্টের কন্টেন্টের পূর্বে"
+
+#: includes/post-types.php:597
+msgid "Middle of post content"
+msgstr "পোস্টের কন্টেন্টের মথ্যে"
+
+#: includes/post-types.php:598
+msgid "End of post content"
+msgstr "পোস্টের কন্টেরন্টের শেষে"
+
+#: includes/post-types.php:603
+msgid "Shorcode display"
+msgstr "শর্টকোড কিভাবে দেখাতে চান"
+
+#: includes/post-types.php:607
+msgid "Display Alignment"
+msgstr "কোন দিকে দেখাতে চান"
+
+#: includes/post-types.php:611
+msgid "Regular"
+msgstr "সাধারন"
+
+#: includes/post-types.php:612
+msgid "Inline Left"
+msgstr "লাইনের ভিতর বামে"
+
+#: includes/post-types.php:613
+msgid "Inline Right"
+msgstr "লাইনের ভিতর ডানে"
+
+#: includes/post-types.php:614
+msgid "Left"
+msgstr "বামে"
+
+#: includes/post-types.php:615
+msgid "Center"
+msgstr "কেন্দ্রে"
+
+#: includes/post-types.php:616
+msgid "Right"
+msgstr "ডানে"
+
+#: includes/post-types.php:623
+msgid "Allowed Domains"
+msgstr "অনুমিত ডোমেইনগুলি"
+
+#: includes/post-types.php:624
+msgid ""
+"One domain each line. Use only an asterisk (*) here to allow on any domain."
+msgstr ""
+"প্রত্যেক লাইনে একটি ডোমেইন। যেকোনো ডোমেইনে অনুমোতির জন্য সুধুমাত্র একটি "
+"আস্টেরিস্ক (*) ব্যবহার করুন।"
+
+#: includes/post-types.php:625
+msgid ""
+"No need to put http/https/www. Example: yourdomain.com or sub.domain.com"
+msgstr ""
+"http/https/www ব্যাবহারের প্রয়োজন নেই। জেমনঃ yourdomain.com or sub.domain."
+"com"
+
+#: includes/post-types.php:626
+msgid "Home domain is allowed by default."
+msgstr "নিজস্ব ডোমেইন আগে থেকেই অনুমোদিত"
+
+#: includes/view.php:59
+msgid "Your banner code"
+msgstr "আপনার ব্যানারের কোডঃ"
+
+#: includes/view.php:105
+msgid "Shortcode Sync:"
+msgstr "শর্টকোড সিঙ্কঃ"
+
+#: includes/view.php:107
+msgid "Shortcode Async:"
+msgstr "শর্টকোড এসিঙ্কঃ"
+
+#: includes/view.php:109
+msgid "HTML Sync:"
+msgstr "এইচটিএমএল সিঙ্কঃ"
+
+#: includes/view.php:109 includes/view.php:111
+msgid "(Works anywhere)"
+msgstr "(যেকোনো যায়গায় কাজ করে)"
+
+#: includes/view.php:111
+msgid "HTML Async:"
+msgstr "এইচটিএমএল এসিঙ্কঃ"
+
+#: includes/view.php:113
+msgid "iFrame:"
+msgstr "আইফ্রেমঃ"
+
+#: includes/view.php:113
+msgid "(Experimental)"
+msgstr "(পরীক্ষামূলক)"
+
+#: includes/view.php:169
+msgid "Unable to show banner"
+msgstr "ব্যানারটি দেখানো সম্ভব হচ্ছে না"
+
+#: includes/view.php:433
+msgid "This preview is the last published version of the banner"
+msgstr "এই প্রিভিউটি ব্যানারের সর্বশেষ প্রকাশিত সংস্করন"

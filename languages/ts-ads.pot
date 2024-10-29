@@ -1,0 +1,476 @@
+# Banner Creator
+# Copyright (C) 2018 ThemeStones
+# This file is distributed under the same license as the Banner Creator plugin.
+# Sohan Zaman <sohan5005@gmail.com>, 2018.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-16 16:39+0600\n"
+"PO-Revision-Date: 2018-05-16 17:27+0600\n"
+"Last-Translator: Sohan Zaman\n"
+"Language-Team: ThemeStones\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/post-types.php:22
+msgid "Clear data"
+msgstr ""
+
+#: includes/post-types.php:22
+msgid "Are you sure you want to clear all statistics of this banner?"
+msgstr ""
+
+#: includes/post-types.php:40
+msgid "<span class=\"dashicons dashicons-editor-code\"></span> Codes"
+msgstr ""
+
+#: includes/post-types.php:41
+msgid "<span class=\"dashicons dashicons-visibility\"></span> Views"
+msgstr ""
+
+#: includes/post-types.php:42
+msgid "<span class=\"dashicons dashicons-chart-bar\"></span> Clicks"
+msgstr ""
+
+#: includes/post-types.php:68 includes/post-types.php:335
+msgid "Get Codes"
+msgstr ""
+
+#: includes/post-types.php:215
+#, php-format
+msgid "All statistics data were cleared for banner \"%1$s\""
+msgstr ""
+
+#: includes/post-types.php:228
+msgctxt "post type general name"
+msgid "Banners"
+msgstr ""
+
+#: includes/post-types.php:229
+msgctxt "post type singular name"
+msgid "Banner"
+msgstr ""
+
+#: includes/post-types.php:230
+msgctxt "admin menu"
+msgid "Banner Ads"
+msgstr ""
+
+#: includes/post-types.php:231
+msgctxt "add new on admin bar"
+msgid "Banner"
+msgstr ""
+
+#: includes/post-types.php:232
+msgctxt "banner"
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types.php:233
+msgid "Add New Banner"
+msgstr ""
+
+#: includes/post-types.php:234
+msgid "New Banner"
+msgstr ""
+
+#: includes/post-types.php:235
+msgid "Edit Banner"
+msgstr ""
+
+#: includes/post-types.php:236
+msgid "View Banner"
+msgstr ""
+
+#: includes/post-types.php:237
+msgid "All Banners"
+msgstr ""
+
+#: includes/post-types.php:238
+msgid "Search Banners"
+msgstr ""
+
+#: includes/post-types.php:239
+msgid "Parent Banners:"
+msgstr ""
+
+#: includes/post-types.php:240
+msgid "No banners found."
+msgstr ""
+
+#: includes/post-types.php:241
+msgid "No banners found in Trash."
+msgstr ""
+
+#: includes/post-types.php:246
+msgid "Description."
+msgstr ""
+
+#: includes/post-types.php:265
+msgid "Banner view/click data"
+msgstr ""
+
+#: includes/post-types.php:284
+msgid "Banner Settings"
+msgstr ""
+
+#: includes/post-types.php:312
+msgid "Size & Link"
+msgstr ""
+
+#: includes/post-types.php:313
+msgid "Design"
+msgstr ""
+
+#: includes/post-types.php:314
+msgid "Display Options"
+msgstr ""
+
+#: includes/post-types.php:334
+msgid "Preview Banner"
+msgstr ""
+
+#: includes/post-types.php:363
+msgid "Select or Upload image"
+msgstr ""
+
+#: includes/post-types.php:363
+msgid "Use this image"
+msgstr ""
+
+#: includes/post-types.php:368
+msgid "Remove this image"
+msgstr ""
+
+#: includes/post-types.php:373
+msgid "Upload"
+msgstr ""
+
+#: includes/post-types.php:384
+msgid "Small Square"
+msgstr ""
+
+#: includes/post-types.php:385
+msgid "Medium Square"
+msgstr ""
+
+#: includes/post-types.php:386
+msgid "Square"
+msgstr ""
+
+#: includes/post-types.php:387
+msgid "Medium Rectangle"
+msgstr ""
+
+#: includes/post-types.php:388
+msgid "Half Banner"
+msgstr ""
+
+#: includes/post-types.php:389
+msgid "Banner"
+msgstr ""
+
+#: includes/post-types.php:390
+msgid "Vertical Banner"
+msgstr ""
+
+#: includes/post-types.php:391
+msgid "Vertical Rectangle"
+msgstr ""
+
+#: includes/post-types.php:392
+msgid "Leaderboard"
+msgstr ""
+
+#: includes/post-types.php:393
+msgid "Billboard"
+msgstr ""
+
+#: includes/post-types.php:394
+msgid "Inline Rectangle"
+msgstr ""
+
+#: includes/post-types.php:395
+msgid "Large Rectangle"
+msgstr ""
+
+#: includes/post-types.php:396
+msgid "Skyscraper"
+msgstr ""
+
+#: includes/post-types.php:397
+msgid "Wide Skyscraper"
+msgstr ""
+
+#: includes/post-types.php:398
+msgid "Extra Wide Skyscraper"
+msgstr ""
+
+#: includes/post-types.php:399
+msgid "Half-Page Ad"
+msgstr ""
+
+#: includes/post-types.php:400
+msgid "Large Leaderboard"
+msgstr ""
+
+#: includes/post-types.php:404
+msgid "Facebook Cover"
+msgstr ""
+
+#: includes/post-types.php:405
+msgid "Facebook Post"
+msgstr ""
+
+#: includes/post-types.php:406
+msgid "Facebook Ad"
+msgstr ""
+
+#: includes/post-types.php:407
+msgid "Twitter Post"
+msgstr ""
+
+#: includes/post-types.php:408
+msgid "Twitter Cover"
+msgstr ""
+
+#: includes/post-types.php:409
+msgid "Instagram Post"
+msgstr ""
+
+#: includes/post-types.php:410
+msgid "Instagram Ad"
+msgstr ""
+
+#: includes/post-types.php:411
+msgid "Pinterest Post"
+msgstr ""
+
+#: includes/post-types.php:412
+msgid "LinkedIn Cover"
+msgstr ""
+
+#: includes/post-types.php:413
+msgid "Google+ Cover"
+msgstr ""
+
+#: includes/post-types.php:414
+msgid "Snapchat Post"
+msgstr ""
+
+#: includes/post-types.php:423
+msgid "Link"
+msgstr ""
+
+#: includes/post-types.php:427
+msgid "Link target"
+msgstr ""
+
+#: includes/post-types.php:432
+msgid "(_blank) Open the link in a new window"
+msgstr ""
+
+#: includes/post-types.php:433
+msgid "(_self) Open the link in the same frame as it was clicked"
+msgstr ""
+
+#: includes/post-types.php:434
+msgid "(_parent) Open the link in the parent frameset"
+msgstr ""
+
+#: includes/post-types.php:435
+msgid "(_top) Open the link in the full body of the window"
+msgstr ""
+
+#: includes/post-types.php:447
+msgid "Regular Sizes"
+msgstr ""
+
+#: includes/post-types.php:477
+msgid "Social Media Sizes"
+msgstr ""
+
+#: includes/post-types.php:518
+msgid "Banner type"
+msgstr ""
+
+#: includes/post-types.php:520
+msgid "Image"
+msgstr ""
+
+#: includes/post-types.php:521
+msgid "Wysiwyg"
+msgstr ""
+
+#: includes/post-types.php:522 includes/post-types.php:543
+msgid "HTML"
+msgstr ""
+
+#: includes/post-types.php:526
+msgid "Select Image"
+msgstr ""
+
+#: includes/post-types.php:538
+msgid "Custom Codes"
+msgstr ""
+
+#: includes/post-types.php:539
+msgid ""
+"<strong>NOTE:</strong> invalid codes may break your banner. Use carefully."
+msgstr ""
+
+#: includes/post-types.php:544
+msgid "Paste HTML code within <body></body> tag"
+msgstr ""
+
+#: includes/post-types.php:545
+msgid "Only applicable if using HTML banner type"
+msgstr ""
+
+#: includes/post-types.php:553
+msgid "CSS"
+msgstr ""
+
+#: includes/post-types.php:554
+msgid "Paste CSS code to add inside the banner"
+msgstr ""
+
+#: includes/post-types.php:555
+msgid "No html or javascript allowed"
+msgstr ""
+
+#: includes/post-types.php:563
+msgid "JavaScript"
+msgstr ""
+
+#: includes/post-types.php:564
+msgid "Paste JavaScript code to add inside the banner"
+msgstr ""
+
+#: includes/post-types.php:565
+msgid "No html or CSS allowed"
+msgstr ""
+
+#: includes/post-types.php:569
+msgid "Load jQuery before this code"
+msgstr ""
+
+#: includes/post-types.php:582
+msgid "Automatic display"
+msgstr ""
+
+#: includes/post-types.php:585
+msgid "Show this banner inside posts"
+msgstr ""
+
+#: includes/post-types.php:592
+msgid "Display Position"
+msgstr ""
+
+#: includes/post-types.php:596
+msgid "Top of post content"
+msgstr ""
+
+#: includes/post-types.php:597
+msgid "Middle of post content"
+msgstr ""
+
+#: includes/post-types.php:598
+msgid "End of post content"
+msgstr ""
+
+#: includes/post-types.php:603
+msgid "Shorcode display"
+msgstr ""
+
+#: includes/post-types.php:607
+msgid "Display Alignment"
+msgstr ""
+
+#: includes/post-types.php:611
+msgid "Regular"
+msgstr ""
+
+#: includes/post-types.php:612
+msgid "Inline Left"
+msgstr ""
+
+#: includes/post-types.php:613
+msgid "Inline Right"
+msgstr ""
+
+#: includes/post-types.php:614
+msgid "Left"
+msgstr ""
+
+#: includes/post-types.php:615
+msgid "Center"
+msgstr ""
+
+#: includes/post-types.php:616
+msgid "Right"
+msgstr ""
+
+#: includes/post-types.php:623
+msgid "Allowed Domains"
+msgstr ""
+
+#: includes/post-types.php:624
+msgid ""
+"One domain each line. Use only an asterisk (*) here to allow on any domain."
+msgstr ""
+
+#: includes/post-types.php:625
+msgid ""
+"No need to put http/https/www. Example: yourdomain.com or sub.domain.com"
+msgstr ""
+
+#: includes/post-types.php:626
+msgid "Home domain is allowed by default."
+msgstr ""
+
+#: includes/view.php:59
+msgid "Your banner code"
+msgstr ""
+
+#: includes/view.php:105
+msgid "Shortcode Sync:"
+msgstr ""
+
+#: includes/view.php:107
+msgid "Shortcode Async:"
+msgstr ""
+
+#: includes/view.php:109
+msgid "HTML Sync:"
+msgstr ""
+
+#: includes/view.php:109 includes/view.php:111
+msgid "(Works anywhere)"
+msgstr ""
+
+#: includes/view.php:111
+msgid "HTML Async:"
+msgstr ""
+
+#: includes/view.php:113
+msgid "iFrame:"
+msgstr ""
+
+#: includes/view.php:113
+msgid "(Experimental)"
+msgstr ""
+
+#: includes/view.php:169
+msgid "Unable to show banner"
+msgstr ""
+
+#: includes/view.php:433
+msgid "This preview is the last published version of the banner"
+msgstr ""
